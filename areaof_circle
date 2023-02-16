@@ -1,0 +1,6 @@
+double areacircle()
+{
+double area=3.14*(7.5*7.5);
+println(area);
+return area;
+}
