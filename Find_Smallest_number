@@ -1,0 +1,9 @@
+int smallest()
+{
+int a=7,b=1,c=4;
+int x=(a<b?a:b);
+int y=(x<c?x:c);
+println(y);
+return y;
+}
+
